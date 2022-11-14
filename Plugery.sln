@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugery", "Plugery\Plugery.csproj", "{8D7A9A57-C968-42D0-BEE3-91149772594F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7A9A57-C968-42D0-BEE3-91149772594F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7A9A57-C968-42D0-BEE3-91149772594F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7A9A57-C968-42D0-BEE3-91149772594F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7A9A57-C968-42D0-BEE3-91149772594F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856F953C-D7BC-48EF-A4C4-9F5FBE01643E}
+	EndGlobalSection
+EndGlobal
